@@ -1,6 +1,6 @@
 # 
-Trabalho final da disciplina de contexto geográfico
-Implementação de energia solar com módulos fotovoltáicos no prédio de INFO da EAJ/UFRN
-*Estatisticas gerais
-*Consumo e investimento
-*Desenvolvimento web
+Final project , Context Geographic
+Implementation of solar energy with photovoltaic modules in the INFO building of EAJ / UFRN
+*Statistics
+*Consumption and investment
+#Dev web
